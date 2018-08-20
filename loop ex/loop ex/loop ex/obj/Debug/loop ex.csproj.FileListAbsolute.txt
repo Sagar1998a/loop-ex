@@ -1,0 +1,7 @@
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\bin\Debug\loop ex.exe.config
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\bin\Debug\loop ex.exe
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\bin\Debug\loop ex.pdb
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\obj\Debug\loop ex.csprojAssemblyReference.cache
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\obj\Debug\loop ex.csproj.CoreCompileInputs.cache
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\obj\Debug\loop ex.exe
+C:\Users\30007941\Desktop\loop ex\loop ex\loop ex\obj\Debug\loop ex.pdb
